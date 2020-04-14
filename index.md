@@ -6,3 +6,4 @@ Download Shortcom for MS PP
 
 ### Contact us
 Send an email to shortcom.company (at) gmail.com
+[Send an email](mailto:shortcom.company@gmail.com)
