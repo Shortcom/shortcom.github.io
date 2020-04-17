@@ -4,7 +4,7 @@
 
 Download Shortcom for MS PP
 ```html
-<a download href="downloads/test.txt">Test Download</a>
+<a download href="test.txt">Test Download</a>
 ```
 
 ### Contact us
