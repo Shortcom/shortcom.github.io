@@ -8,7 +8,7 @@ Download Shortcom for MS PP
 Send an email to shortcom.company (at) gmail.com
 [Send an email](mailto:shortcom.company@gmail.com)
 
-###Privacy Policy
+### Privacy Policy
 
 Shortcom UG built the Shortcom for PowerPoint app as an Ad Supported app. This SERVICE is provided by Shortcom UG at no cost and is intended for use as is.
 
