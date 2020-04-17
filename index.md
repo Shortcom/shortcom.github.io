@@ -4,6 +4,9 @@
 
 Download Shortcom for MS PP
 
+<a download href="Shortcom-For-PowerPoint.zip">Download Installer</a>
+
+
 ### Contact us
 Send an email to shortcom.company (at) gmail.com
 
