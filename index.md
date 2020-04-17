@@ -3,10 +3,12 @@
 ### Faster. Easier. Better.
 
 Download Shortcom for MS PP
+
 <a download href="test.txt">Test Download</a>
 
 ### Contact us
 Send an email to shortcom.company (at) gmail.com
+
 [Send an email](mailto:shortcom.company@gmail.com)
 
 ### Privacy Policy
