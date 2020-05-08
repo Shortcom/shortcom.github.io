@@ -1,0 +1,472 @@
+	.mediaViewInfo {
+	  --web-view-name: LandingPage_bright;
+	  --web-view-id: LandingPage_bright;
+	  --web-scale-on-resize: true;
+	  --web-center-horizontally: true;
+	  --web-center-vertically: true;
+	  --web-application: true;
+	  --web-enable-deep-linking: true;
+	}
+
+	:root {
+	  --web-view-ids: LandingPage_bright;
+	}
+
+	* {
+	  margin: 0;
+	  padding: 0;
+	  box-sizing: border-box;
+	  border: none;
+	}
+
+	#hover {
+	  display: none;
+	}
+
+	span:hover+#hover {
+	  display: block;
+	}
+
+	#LandingPage_bright {
+	  position: absolute;
+	  transform: translateX(-50%) translateY(-50%);
+	  left: 50%;
+	  top: 50%;
+	  width: 1920px;
+	  height: 1080px;
+	  background-color: rgba(255, 255, 255, 1);
+	  overflow: hidden;
+	  --web-view-name: LandingPage_bright;
+	  --web-view-id: LandingPage_bright;
+	  --web-scale-on-resize: true;
+	  --web-center-horizontally: true;
+	  --web-center-vertically: true;
+	  --web-application: true;
+	  --web-enable-deep-linking: true;
+	  zoom: 0.8;
+	  -moz-transform: scale(0.7);
+	  -moz-transform-origin: 0 0;
+	}
+
+	#ref {
+	  color: black;
+	  font-color: black;
+	  text-decoration: none;
+	}
+
+	#USP_text {
+	  position: absolute;
+	  width: 1424.405px;
+	  height: 343.698px;
+	  left: 247.692px;
+	  top: 156px;
+	  overflow: visible;
+	}
+
+	.Path_18_u {
+	  overflow: visible;
+	  position: absolute;
+	  width: 389.513px;
+	  height: 102.604px;
+	  left: 508.671px;
+	  top: 241.095px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_17_w {
+	  overflow: visible;
+	  position: absolute;
+	  width: 382.969px;
+	  height: 107.459px;
+	  left: 0px;
+	  top: 236.239px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_19_y {
+	  overflow: visible;
+	  position: absolute;
+	  width: 400.28px;
+	  height: 102.604px;
+	  left: 1024.124px;
+	  top: 241.095px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#We_make_Software {
+	  position: absolute;
+	  left: 32.308px;
+	  top: 0px;
+	  overflow: visible;
+	  width: 1361px;
+	  height: 144px;
+	  text-align: center;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: bold;
+	  font-size: 100px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#Menu_Bar {
+	  position: absolute;
+	  width: 496px;
+	  height: 33px;
+	  left: 206px;
+	  top: 43px;
+	  overflow: visible;
+	}
+
+	#Feedback {
+	  position: absolute;
+	  left: 230px;
+	  top: 0px;
+	  overflow: visible;
+	  width: 68px;
+	  white-space: nowrap;
+	  text-align: left;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: normal;
+	  font-size: 25px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#Downloads {
+	  position: absolute;
+	  left: 0px;
+	  top: 0px;
+	  overflow: visible;
+	  width: 124px;
+	  white-space: nowrap;
+	  text-align: left;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: normal;
+	  font-size: 25px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#PrivacyPolicy {
+	  position: absolute;
+	  left: 450px;
+	  top: 0px;
+	  overflow: visible;
+	  width: 105px;
+	  white-space: nowrap;
+	  text-align: left;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: normal;
+	  font-size: 25px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#Shortcom_logo {
+	  position: absolute;
+	  width: 91.963px;
+	  height: 74.628px;
+	  left: 21.335px;
+	  top: 21.719px;
+	  overflow: visible;
+	}
+
+	.Path_2 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 91.042px;
+	  height: 74.628px;
+	  left: 0px;
+	  top: 0px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 40.321px;
+	  height: 61.798px;
+	  left: 51.643px;
+	  top: 12.644px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#PowerPoint_btn {
+	  position: absolute;
+	  width: 247px;
+	  height: 222px;
+	  left: 667px;
+	  top: 762px;
+	  overflow: visible;
+	}
+
+	#PowerPoint_ {
+	  position: absolute;
+	  left: 0px;
+	  top: 156px;
+	  overflow: hidden;
+	  width: 248px;
+	  height: 66px;
+	  line-height: 35px;
+	  margin-top: -2.5px;
+	  text-align: center;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: bold;
+	  font-size: 30px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	.button_outline {
+	  position: absolute;
+	  overflow: visible;
+	  width: 196px;
+	  height: 213px;
+	  left: 26px;
+	  top: 0px;
+	}
+
+	#_coming_soon_ {
+	  position: absolute;
+	  left: 1078px;
+	  top: 979px;
+	  overflow: visible;
+	  width: 127px;
+	  white-space: nowrap;
+	  line-height: 50px;
+	  margin-top: -15px;
+	  text-align: center;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: normal;
+	  font-size: 20px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#Blender_btn {
+	  position: absolute;
+	  width: 247px;
+	  height: 222px;
+	  left: 1022px;
+	  top: 762px;
+	  overflow: visible;
+	}
+
+	#Blender_logo_no_text {
+	  position: absolute;
+	  width: 160.879px;
+	  height: 130.686px;
+	  left: 38.211px;
+	  top: 24px;
+	  overflow: visible;
+	}
+
+	#g4161 {
+	  position: absolute;
+	  width: 43.492px;
+	  height: 39.461px;
+	  left: 83.84px;
+	  top: 54.731px;
+	  overflow: visible;
+	}
+
+	.path4163 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 43.492px;
+	  height: 39.461px;
+	  left: 0px;
+	  top: 0px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#g4165 {
+	  position: absolute;
+	  width: 160.879px;
+	  height: 130.686px;
+	  left: 0px;
+	  top: 0px;
+	  overflow: visible;
+	}
+
+	.path4167 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 160.879px;
+	  height: 130.686px;
+	  left: 0px;
+	  top: 0px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#text {
+	  position: relative;
+	  left: 10.308px;
+	  top: 350px;
+	  overflow: visible;
+	  left: 70px;
+	  width: 1800px;
+	  height: 144px;
+	  text-align: left;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: bold;
+	  font-size: 20px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#Blender_ {
+	  position: absolute;
+	  left: 0px;
+	  top: 156px;
+	  overflow: hidden;
+	  width: 248px;
+	  height: 66px;
+	  line-height: 35px;
+	  margin-top: -2.5px;
+	  text-align: center;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: bold;
+	  font-size: 30px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	.button_outline_blender {
+	  position: absolute;
+	  overflow: visible;
+	  width: 196px;
+	  height: 213px;
+	  left: 21px;
+	  top: 0px;
+	}
+
+	#Get_Shortcom_for {
+	  position: absolute;
+	  left: 645px;
+	  top: 653px;
+	  overflow: visible;
+	  width: 631px;
+	  height: 87px;
+	  text-align: center;
+	  font-family: Segoe UI;
+	  font-style: normal;
+	  font-weight: bold;
+	  font-size: 60px;
+	  color: rgba(0, 0, 0, 1);
+	}
+
+	#Microsoft_Office_PowerPoint__2 {
+	  position: absolute;
+	  width: 143.057px;
+	  height: 133.076px;
+	  left: 719px;
+	  top: 781.924px;
+	  overflow: visible;
+	}
+
+	.Path_28 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 76.519px;
+	  height: 73.192px;
+	  left: 9.981px;
+	  top: 0px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_29 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 66.538px;
+	  height: 79.846px;
+	  left: 76.519px;
+	  top: 0px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_30 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 133.076px;
+	  height: 66.538px;
+	  left: 9.98px;
+	  top: 66.538px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_31 {
+	  opacity: 0.1;
+	}
+
+	.Path_31 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 69.865px;
+	  height: 83.173px;
+	  left: 9.98px;
+	  top: 26.615px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_32 {
+	  opacity: 0.2;
+	}
+
+	.Path_32 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 66.539px;
+	  height: 83.173px;
+	  left: 9.98px;
+	  top: 29.942px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_33 {
+	  opacity: 0.2;
+	}
+
+	.Path_33 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 66.539px;
+	  height: 76.519px;
+	  left: 9.98px;
+	  top: 29.942px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_34 {
+	  opacity: 0.2;
+	}
+
+	.Path_34 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 63.211px;
+	  height: 76.519px;
+	  left: 9.98px;
+	  top: 29.942px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_35_bt {
+	  overflow: visible;
+	  position: absolute;
+	  width: 73.192px;
+	  height: 73.192px;
+	  left: 0px;
+	  top: 29.942px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_36 {
+	  overflow: visible;
+	  position: absolute;
+	  width: 31.1px;
+	  height: 40.593px;
+	  left: 21.156px;
+	  top: 46.169px;
+	  transform: matrix(1, 0, 0, 1, 0, 0);
+	}
